@@ -4,7 +4,8 @@
 
 // Azure backend URL (plug in later). Leave empty for DEMO mode.
 // Example: "https://your-backend-domain/translate"
-const API_URL = ""; // empty = DEMO mode (no network call)
+// const API_URL = ""; // empty = DEMO mode (no network call)
+const API_URL = "https://rollomatic-translator-api.onrender.com/translate";
 const REQUEST_TIMEOUT_MS = 30000;
 
 // ================================
